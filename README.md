@@ -13,9 +13,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/superpavuk"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="superpavuk" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superpavuk&show_icons=true&locale=en&layout=compact" alt="superpavuk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superpavuk&show_icons=true&locale=en" alt="superpavuk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superpavuk&" alt="superpavuk" /></p>
