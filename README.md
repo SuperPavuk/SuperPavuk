@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SuperPavuk</h1>
 <h3 align="center">tech freak love to write code HACK THE PLANET👨‍💻</h3>
-![hackers-jonny](https://github.com/SuperPavuk/SuperPavuk/assets/24996304/d6897170-9d37-46c5-81be-09dbfd429004)
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24996304/260862957-d6897170-9d37-46c5-81be-09dbfd429004.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superpavuk&label=Profile%20views&color=0e75b6&style=flat" alt="superpavuk" /> </p>
 
