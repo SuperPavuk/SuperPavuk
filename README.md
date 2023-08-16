@@ -3,6 +3,7 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://github-production-user-asset-6210df.s3.amazonaws.com/24996304/260862957-d6897170-9d37-46c5-81be-09dbfd429004.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superpavuk&label=Profile%20views&color=0e75b6&style=flat" alt="superpavuk" /> </p>
+<iframe width="300" height="80" src="http://peterbarber.6f.sk/" frameborder="0" allowfullscreen></iframe>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
